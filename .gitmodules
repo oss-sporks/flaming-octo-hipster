@@ -1,0 +1,3 @@
+[submodule "agilefant"]
+	path = agilefant
+	url = git@github.com:oss-sporks/agilefant.git
