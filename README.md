@@ -2,7 +2,7 @@
 
 Potentially broken and/or pointless forks of open source software projects.
 
-These may break your computer, absond with your cat, and tarnish your good name.
+These may break your computer, abscond with your cat, and tarnish your good name.
 
 Consider yourself warned.
 
